@@ -1,0 +1,17 @@
+setup.py
+ft_scraper/__init__.py
+ft_scraper/items.py
+ft_scraper/middlewares.py
+ft_scraper/pipelines.py
+ft_scraper/settings.py
+ft_scraper/spiders/__init__.py
+ft_scraper/spiders/ft_spider.py
+ft_scraper/spiders/ftcodes.py
+ft_scraper/spiders/ftcodes.txt
+ft_scraper/spiders/tickers.txt
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/not-zip-safe
+project.egg-info/top_level.txt
